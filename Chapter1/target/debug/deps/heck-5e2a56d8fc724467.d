@@ -1,0 +1,13 @@
+D:\Repos\Rust\tikv\Chapter1\target\debug\deps\heck-5e2a56d8fc724467.rmeta: C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\lib.rs C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\camel.rs C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\kebab.rs C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\mixed.rs C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\shouty_snake.rs C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\snake.rs C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\title.rs
+
+D:\Repos\Rust\tikv\Chapter1\target\debug\deps\libheck-5e2a56d8fc724467.rlib: C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\lib.rs C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\camel.rs C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\kebab.rs C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\mixed.rs C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\shouty_snake.rs C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\snake.rs C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\title.rs
+
+D:\Repos\Rust\tikv\Chapter1\target\debug\deps\heck-5e2a56d8fc724467.d: C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\lib.rs C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\camel.rs C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\kebab.rs C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\mixed.rs C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\shouty_snake.rs C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\snake.rs C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\title.rs
+
+C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\lib.rs:
+C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\camel.rs:
+C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\kebab.rs:
+C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\mixed.rs:
+C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\shouty_snake.rs:
+C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\snake.rs:
+C:\Users\samra\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\title.rs:
